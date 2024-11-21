@@ -10,7 +10,7 @@
 *   Semanto Mondal
 *  Alberto Moccardi
 
-NOTE: The Notebook is prepared for participating in the UNINA QISKIT COMPETITION
+NOTE: The Notebook is prepared for participating in the [UNINA QISKIT COMPETITION](https://www.unina.it/-/63454289-qiskit-fall-fest-2024)
 
 ## Introduction 
 
@@ -34,7 +34,7 @@ The Target Class contains two values - 0 or 1 - where 0 refers to edible and 1 r
 
 
 **More Information can be achieved about the dataset from the below link:
-[link text](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)**
+[Mushroom Dataset](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)**
 
 
 ## Plan of Attack 
