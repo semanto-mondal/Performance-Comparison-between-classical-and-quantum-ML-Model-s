@@ -1,6 +1,17 @@
 # Performance-Comparison-between-classical-and-quantum-ML-Models
 ## Binary Classification using Mushroom Dataset: Performance Comparison between Classical and Quantum ML Model’s
 
+
+**GROUP COMPOSITION:**
+
+
+*   Md. Ekhtear Ahammed
+*   Rajib Chandra Ghosh
+*   Semanto Mondal
+*  Alberto Moccardi
+
+NOTE: The Notebook is prepared for participating in the UNINA QISKIT COMPETITION
+
 ## Introduction 
 
 Artificial Intelligence is the parent class of Machine Learning and Deep Learning. Nowadays we can see a huge enhancement in the field of AI. Due to the enormous hardware capacity such as GPUs, HPC (high-performance computing), and Parallel and Distributed computing, we are now able to perform several operations which could not have been thought of just a few years ago. But still, these computation powers are not enough for a lot of problems. Also, there are many problems which cannot be solved or formulated using classical computers. Here comes quantum computing having acute capabilities to solve many problems more efficiently. Here we have tried to perform a simple binary classification of a mushroom dataset where we must predict whether a mushroom is edible or not. This dataset is a clean version of the original Mushroom Dataset for Binary Classification Available at UCI Library. It contains 9 columns. The Target Class contains two values - 0 or 1 - where 0 refers to edible and 1 refers to poisonous.
